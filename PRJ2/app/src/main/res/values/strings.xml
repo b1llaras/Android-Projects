@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Erg2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="central_greece">Central Greece</string>
+    <string name="thessaly">Thessaly</string>
+    <string name="central_macedonia">Central Macedonia</string>
+    <string name="thrace">Thrace</string>
+</resources>

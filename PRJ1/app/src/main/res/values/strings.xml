@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ErgA1</string>
+    <string name="register">Register</string>
+    <string name="first_name">First Name:</string>
+    <string name="your_first_name">Your First Name</string>
+    <string name="your_last_name">Last Name:</string>
+    <string name="done">DONE</string>
+    <string name="central_greece">Central Greece</string>
+    <string name="thessaly">Thessaly</string>
+    <string name="central_macedonia">Central Macedonia</string>
+    <string name="thrace">Thrace</string>
+    <string name="karditsa">KARDITSA</string>
+    <string name="larisa">LARISA</string>
+    <string name="magnisia">MAGNISIA</string>
+    <string name="trikala">TRIKALA</string>
+    <string name="viotia">VIOTIA</string>
+    <string name="evia">EVIA</string>
+    <string name="evritania">EVRITANIA</string>
+    <string name="fthiotida">FTHIOTIDA</string>
+    <string name="chalkidiki">CHALKIDIKI</string>
+    <string name="kilkis">KILKIS</string>
+    <string name="serres">SERRES</string>
+    <string name="thessaloniki">THESSALONIKI</string>
+    <string name="drama">DRAMA</string>
+    <string name="thassos">THASSOS</string>
+    <string name="xanthi">XANTHI</string>
+    <string name="evros">EVROS</string>
+</resources>
